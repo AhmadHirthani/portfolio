@@ -12,7 +12,7 @@ body {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: #0A2936;
 }
 
     body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -31,12 +31,12 @@ input, textarea, select {
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: #0A3636;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
-    color: #666;
+    color: #5C9C8B;
     line-height: 1.5em;
 }
 
@@ -46,7 +46,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 
     h1 a strong, h2 a strong, h3 a strong, h4 a strong, h5 a strong, h6 a strong {
-        color: #333;
+        color: #61A85B;
     }
 
 h2 {
@@ -55,11 +55,11 @@ h2 {
 }
 
     h2.alt {
-        color: #888;
+        color: #CF657A;
     }
 
         h2.alt strong {
-            color: #666;
+            color:#CF657A;
         }
 
 h3 {
@@ -80,7 +80,7 @@ footer {
 
 strong, b {
     font-weight: 300;
-    color: #666;
+    color: #CF657A;
 }
 
 em, i {
@@ -99,8 +99,8 @@ a {
 }
 
     a:hover {
-        color: #E27689;
-        border-bottom-color: rgba(255, 255, 255, 0);
+        color: #CF657A;
+        border-bottom-color: #CF657A;
     }
 
 sub {
