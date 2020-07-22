@@ -5,9 +5,9 @@ Estimate of time needed to complete: 30 Minutes
 
 Start time: 02:45
 
-Finish time: 03:10
+Finish time: 03:15
 
-Actual time needed to complete: 25 Minutes
+Actual time needed to complete: 30 Minutes
 
 
 
